@@ -1,2 +1,2 @@
 # Muscle_MetNet_CBB
-Muscle Metabolic Model
+Muscle-specific metabolic model reconstructed in CBB lab.
